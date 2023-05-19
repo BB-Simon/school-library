@@ -59,6 +59,11 @@
 - **Create class Person**
 - **Create class Student**
 - **Create class Teacher**
+- **Create a class Nameable**
+- **Turn your Person class to Nameable**
+- **Prepare base Decorator**
+- **CapitalizeDecorator**
+- **TrimmerDecorator**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
