@@ -69,7 +69,19 @@
 - **Create a class Book**
 - **Create a class Rental**
 - **Create the many-to-many (also has-many-through) relationship between Person and Book using the intermediate class Rental**
+- **Create a app.rb file that will serve as your console app entry-point. It should have methods that do the following:**
+  * List all books.
+  * List all people.
+  * Create a person (teacher or student, not a plain Person).
+  * Create a book.
+  * Create a rental.
+  * List all rentals for a given person id.
 
+- **Create main.rb define the entry point, this will be a method called main that is invoked at the end of the file. This method should do the following:**
+  * Present the user with a list of options to perform.
+  * Lets users choose an option.
+  * If needed, ask for parameters for the option.
+  * Have a way to quit the app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
