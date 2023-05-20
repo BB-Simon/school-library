@@ -64,6 +64,11 @@
 - **Prepare base Decorator**
 - **CapitalizeDecorator**
 - **TrimmerDecorator**
+- **Create a class Classroom**
+- **Create the has-many/belongs-to relationship between Classroom and Student**
+- **Create a class Book**
+- **Create a class Rental**
+- **Create the many-to-many (also has-many-through) relationship between Person and Book using the intermediate class Rental**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
